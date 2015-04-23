@@ -1,0 +1,20 @@
+//En caso de que fuera par
+
+--------Ingreso de Numeros Pares--------
+
+Ingrese valor para verificar si es Par: 12
+
+El Numero ingresado es Par.
+
+
+
+
+
+
+//Caso Contario, si fuera impar:
+
+--------Ingreso de Numeros Pares--------
+
+Ingrese valor para verificar si es Par: 13
+
+El Numero no es par, vuelva a ejecutar el programa.
